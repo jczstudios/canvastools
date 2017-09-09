@@ -1,3 +1,5 @@
+// Notifications Create Method Example
+
 // The ID of the CanvasTools Chrome Extension (Don't change this)
 var editorExtensionId = "gmdmngbeceipkojacdoljnllcnfpdgce";
 var notification = {
